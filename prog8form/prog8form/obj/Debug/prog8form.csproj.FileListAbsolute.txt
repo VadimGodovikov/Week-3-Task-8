@@ -1,0 +1,10 @@
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\bin\Debug\prog8form.exe.config
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\bin\Debug\prog8form.exe
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\bin\Debug\prog8form.pdb
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\obj\Debug\prog8form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\obj\Debug\prog8form.Form1.resources
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\obj\Debug\prog8form.Properties.Resources.resources
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\obj\Debug\prog8form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\obj\Debug\prog8form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\obj\Debug\prog8form.exe
+C:\Учебная практика\Неделя 3 Задание 8\prog8form\prog8form\obj\Debug\prog8form.pdb

@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 3 Задание 8\prog8\prog8\bin\Debug\prog8.exe.config
+C:\Учебная практика\Неделя 3 Задание 8\prog8\prog8\bin\Debug\prog8.exe
+C:\Учебная практика\Неделя 3 Задание 8\prog8\prog8\bin\Debug\prog8.pdb
+C:\Учебная практика\Неделя 3 Задание 8\prog8\prog8\obj\Debug\prog8.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 8\prog8\prog8\obj\Debug\prog8.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 8\prog8\prog8\obj\Debug\prog8.exe
+C:\Учебная практика\Неделя 3 Задание 8\prog8\prog8\obj\Debug\prog8.pdb
